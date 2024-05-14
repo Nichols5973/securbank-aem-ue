@@ -29,6 +29,7 @@
       "hero",
       "cards",
       "columns",
+      "form",
       "feature",
       "forex",
       "map",
@@ -42,6 +43,23 @@
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "form",
+    "components": [
+      "plain-text",
+      "text-input",
+      "number-input",
+      "date-input",
+      "panel",
+      "checkbox",
+      "drop-down",
+      "radio-group",
+      "email",
+      "fragment",
+      "form-button",
+      "form-image"
     ]
   }
 ]
